@@ -3,4 +3,5 @@
     <string name="objet_connecte_ouvert">L\'objet connecté a été ouvert !</string>
     <string name="objet_connecte_ferme">L\'objet connecté est bien fermé !</string>
     <string name="titre_action_objet_connecte">Actions disponibles</string>
+    <string name="bouton_redemarrage">Redémarrer l\'objet connecté</string>
 </resources>
